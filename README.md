@@ -22,3 +22,4 @@
 1. Telas devem usar componentes [shadcnui](https://ui.shadcn.com/)
 2. Componentes devem ser estilizados com [tailwindcss](https://tailwindcss.com/)
 3. A aplicação deve ser composta por componentes da própria aplicação
+4. Sobre páginas em [nextjs](https://nextjs.org/) ver [layout and pages](https://nextjs.org/docs/app/getting-started/layouts-and-pages)
